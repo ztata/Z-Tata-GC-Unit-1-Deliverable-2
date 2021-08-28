@@ -1,0 +1,14 @@
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\bin\Debug\netcoreapp3.1\ZTataDeliverable2.exe
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\bin\Debug\netcoreapp3.1\ZTataDeliverable2.deps.json
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\bin\Debug\netcoreapp3.1\ZTataDeliverable2.runtimeconfig.json
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\bin\Debug\netcoreapp3.1\ZTataDeliverable2.runtimeconfig.dev.json
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\bin\Debug\netcoreapp3.1\ZTataDeliverable2.dll
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\bin\Debug\netcoreapp3.1\ZTataDeliverable2.pdb
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\obj\Debug\netcoreapp3.1\ZTataDeliverable2.csproj.AssemblyReference.cache
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\obj\Debug\netcoreapp3.1\ZTataDeliverable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\obj\Debug\netcoreapp3.1\ZTataDeliverable2.AssemblyInfoInputs.cache
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\obj\Debug\netcoreapp3.1\ZTataDeliverable2.AssemblyInfo.cs
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\obj\Debug\netcoreapp3.1\ZTataDeliverable2.csproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\obj\Debug\netcoreapp3.1\ZTataDeliverable2.dll
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\obj\Debug\netcoreapp3.1\ZTataDeliverable2.pdb
+C:\Users\zacha\source\repos\ZTataDeliverable2\ZTataDeliverable2\obj\Debug\netcoreapp3.1\ZTataDeliverable2.genruntimeconfig.cache
