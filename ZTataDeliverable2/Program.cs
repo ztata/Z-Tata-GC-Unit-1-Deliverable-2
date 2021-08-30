@@ -16,17 +16,17 @@ namespace ZTataDeliverable2
             if (userInput == "hello")
             {
                 Console.WriteLine("Hi good to see you");
-                Console.WriteLine("If you would like to continue talking, please enther another input.");
+                Console.WriteLine("If you would like to continue talking, please enter another input.");
             }
             else if (userInput == "sup")
             {
                 Console.WriteLine("I am good.");
-                Console.WriteLine("If you would like to continue talking, please enther another input.");
+                Console.WriteLine("If you would like to continue talking, please enter another input.");
             }
             else if (userInput == "hello there")
             {
                 Console.WriteLine("General Kenobi");
-                Console.WriteLine("If you would like to continue talking, please enther another input.");
+                Console.WriteLine("If you would like to continue talking, please enter another input.");
             }
 
             answerDoubleCheck = userInput;
@@ -40,23 +40,23 @@ namespace ZTataDeliverable2
                     if (answerDoubleCheck == userInput)
                     {
                         Console.WriteLine("You already said that");
-                        Console.WriteLine("If you would like to continue talking, please enther another input.");
+                        Console.WriteLine("If you would like to continue talking, please enter another input.");
                     }
 
                     else if (userInput == "hello")
                     {
                         Console.WriteLine("Hi good to see you");
-                        Console.WriteLine("If you would like to continue talking, please enther another input.");
+                        Console.WriteLine("If you would like to continue talking, please enter another input.");
                     }
                     else if (userInput == "sup")
                     {
                         Console.WriteLine("I am good.");
-                        Console.WriteLine("If you would like to continue talking, please enther another input.");
+                        Console.WriteLine("If you would like to continue talking, please enter another input.");
                     }
                     else if (userInput == "hello there")
                     {
                         Console.WriteLine("General Kenobi");
-                        Console.WriteLine("If you would like to continue talking, please enther another input.");
+                        Console.WriteLine("If you would like to continue talking, please enter another input.");
                     }
 
                     answerDoubleCheck = userInput;
